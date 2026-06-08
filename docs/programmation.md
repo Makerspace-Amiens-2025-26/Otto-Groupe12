@@ -13,9 +13,10 @@ Cette fonctionnalité permet au robot de jouer automatiquement une mélodie lors
 
 ### Code Arduino
 
-![Code Arduino - Fichier notes.h](assets/images/code-notes.png)
+![Code Arduino - Fichier notes.h](<img width="461" height="790" alt="image" src="https://github.com/user-attachments/assets/e19a1525-7f0e-4771-8ee9-2eb243e1602c" />)
 
-![Code Arduino - Mélodie](assets/images/code-melodie.png)
+![Code Arduino - Mélodie](<img width="406" height="688" alt="image" src="https://github.com/user-attachments/assets/81d1b049-6764-4b53-bf9f-ce939dd30f48" />
+)
 
 ---
 
@@ -25,28 +26,17 @@ Cette partie du programme gère les différents déplacements du robot. Les mouv
 
 ### Code Arduino
 
-![Code Arduino - Marche arrière](assets/images/code-marche-arriere.png)
+![Code Arduino - Marche arrière](<img width="360" height="494" alt="image" src="https://github.com/user-attachments/assets/d3553f07-8cda-4a3d-a8db-ec71ebd6951f" />
+)
 
-![Code Arduino - Rotation gauche](assets/images/code-tourne-gauche.png)
+![Code Arduino - Rotation gauche](<img width="337" height="268" alt="image" src="https://github.com/user-attachments/assets/43fba3b7-74d7-46cc-8ef0-4297591a7c0f" />
+)
 
-![Code Arduino - Rotation droite](assets/images/code-tourne-droite.png)
+![Code Arduino - Rotation droite](<img width="529" height="408" alt="image" src="https://github.com/user-attachments/assets/a16e0d52-fc36-4da8-b92c-e06c347c5022" />
+)
 
-![Code Arduino - Lecture distance](assets/images/code-distance.png)
-
-![Code Arduino - Marche avant](assets/images/code-marche-avant.png)
-
----
-
-## 📡 Capteur ultrason
-
-Le capteur ultrason permet la détection des obstacles.
-
-| Broche | Composant |
-|--------|-----------|
-| trig_pin (10) | Trigger du capteur |
-| echo_pin (11) | Echo du capteur |
-
-![Code Arduino - Configuration capteur](assets/images/code-capteur.png)
+![Code Arduino - Marche avant](<img width="449" height="591" alt="image" src="https://github.com/user-attachments/assets/c0e3a0d7-030c-47e8-8418-1f7ff53f67ba" />
+)
 
 ---
 
