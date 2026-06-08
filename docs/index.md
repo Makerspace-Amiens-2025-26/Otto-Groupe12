@@ -7,9 +7,9 @@ permalink: /
 
 # Bienvenue sur notre documentation
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet Otto Groupe 12 de Archibald Rozié et Nohem Hanquer. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre projet sur Onshape]([https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2](https://cad.onshape.com/documents/9c8be9d5948860dbdf8c5030/w/5700a20b0c46ffa8c7e0796d/e/4f1193e47d2309dbc86d44f2)){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
@@ -19,9 +19,20 @@ Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir tout
 
 
 ## À propos du Projet
-
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
-
+Dans le cadre de notre première année, nous avons réalisé un projet autour du robot Otto-
+MKS. L'objectif de ce projet était de découvrir les bases de la robotique à travers
+l'assemblage, la personnalisation et la programmation d'un robot éducatif. Le projet avait
+également pour but de préparer notre participation aux Ottolympiades, une compétition
+durant laquelle les différents robots réalisés par les étudiants s'affrontaient lors de la journée
+des projets.
+Ce travail nous a permis de développer des compétences dans plusieurs domaines tels que la
+conception 3D, l'électronique embarquée et la programmation Arduino.
+À partir du modèle de base fourni, nous avons étudié le fonctionnement du robot puis
+imaginé une modification permettant de le rendre plus imposant visuellement. Nous avons
+ensuite réalisé une modification avant d'intégrer les différents programmes nécessaires à son
+fonctionnement.
+Ce projet nous a également permis d'apprendre à travailler en équipe, à répartir les tâches et
+à résoudre les différents problèmes rencontrés au cours du développement.
 
 ## Poster
 
