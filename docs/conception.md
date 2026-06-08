@@ -56,15 +56,6 @@ L'ensemble des pièces du robot a été modélisé ou modifié sur **Onshape**.
 
 ---
 
-## 📸 Résultat final
-
-![Robot Otto-MKS modifié](assets/images/otto-final.jpg)
-
-{: .note }
-> *Photo du robot assemblé avec l'étage supplémentaire. Placez votre image dans `assets/images/otto-final.jpg`*
-
----
-
 
 ## 🛠️ Matériel utilisé
 
