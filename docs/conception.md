@@ -58,17 +58,6 @@ L'ensemble des pièces du robot a été modélisé ou modifié sur **Onshape**.
 
 ## 🖨️ Prototypage et intégration
 
-### Étapes d'impression 3D
-
-La pièce intermédiaire a été imprimée en **PLA** avant d'être intégrée au robot.
-
-| Paramètre | Valeur |
-|-----------|--------|
-| Matériau | PLA (gris) |
-| Hauteur de couche | 0.2 mm |
-| Remplissage | 20% |
-| Supports | Non requis |
-
 ### 🔧 Assemblage
 
 1. Démontage de la tête du robot original
@@ -87,15 +76,6 @@ La pièce intermédiaire a été imprimée en **PLA** avant d'être intégrée a
 
 ---
 
-## 📎 Annexes techniques
-
-| Lien | Description |
-|------|-------------|
-| [Onshape - Pièces originales](https://cad.onshape.com/...) | Dossier complet des pièces de base |
-| [Onshape - Pièce modifiée](https://cad.onshape.com/...) | Fichier STL de l'étage intermédiaire |
-| [Vidéo d'assemblage](https://youtu.be/8-qTWAUJMaU) | Tutoriel pas-à-pas |
-
----
 
 ## 🛠️ Matériel utilisé
 
