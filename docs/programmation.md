@@ -12,7 +12,6 @@ permalink: /programmation
 Cette fonctionnalité permet au robot de jouer automatiquement une mélodie lors de son démarrage. Cette séquence sonore permet de signaler que le robot est correctement alimenté et prêt à être utilisé.
 
 ### Code Arduino
-
 <img src="https://github.com/user-attachments/assets/e19a1525-7f0e-4771-8ee9-2eb243e1602c" alt="Code Arduino - Fichier notes.h" width="500">
 
 <img src="https://github.com/user-attachments/assets/81d1b049-6764-4b53-bf9f-ce939dd30f48" alt="Code Arduino - Mélodie" width="500">
