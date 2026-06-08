@@ -13,11 +13,9 @@ Cette fonctionnalité permet au robot de jouer automatiquement une mélodie lors
 
 ### Code Arduino
 
-![Code Arduino - Fichier notes.h](<img width="461" height="790" alt="image" src="https://github.com/user-attachments/assets/e19a1525-7f0e-4771-8ee9-2eb243e1602c" />)
+<img src="https://github.com/user-attachments/assets/e19a1525-7f0e-4771-8ee9-2eb243e1602c" alt="Code Arduino - Fichier notes.h" width="500">
 
-![Code Arduino - Mélodie](<img width="406" height="688" alt="image" src="https://github.com/user-attachments/assets/81d1b049-6764-4b53-bf9f-ce939dd30f48" />
-)
-
+<img src="https://github.com/user-attachments/assets/81d1b049-6764-4b53-bf9f-ce939dd30f48" alt="Code Arduino - Mélodie" width="500">
 ---
 
 ## 6.2 Déplacement du robot
