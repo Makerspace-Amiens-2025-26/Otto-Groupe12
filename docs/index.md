@@ -9,7 +9,7 @@ permalink: /
 
 Bienvenue dans la documentation du projet Otto Groupe 12 de Archibald Rozié et Nohem Hanquer. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape]([https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2](https://cad.onshape.com/documents/9c8be9d5948860dbdf8c5030/w/5700a20b0c46ffa8c7e0796d/e/4f1193e47d2309dbc86d44f2)){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre projet sur Onshape](https://cad.onshape.com/documents/9c8be9d5948860dbdf8c5030/w/5700a20b0c46ffa8c7e0796d/e/4f1193e47d2309dbc86d44f2?nodeId=0&resourceType=filter){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
@@ -38,7 +38,8 @@ Ce projet nous a également permis d'apprendre à travailler en équipe, à rép
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster projet](<img width="749" height="947" alt="image" src="https://github.com/user-attachments/assets/2ae6af10-4eaa-4333-b864-ab29717255cb" />
+)
 
 ## Vidéo
 
@@ -51,6 +52,11 @@ Ici vous publierez la vidéo de votre projet.
 - Une conclusion
 - Si en stockage local : <50mo
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="video" controls title="Title"  style="width: 100%;"></video>
+
+## Video Montage
+
+[Notre video montage](https://www.youtube.com/watch?v=8-qTWAUJMaU){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 
 ---
