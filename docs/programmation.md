@@ -26,18 +26,13 @@ Cette partie du programme gère les différents déplacements du robot. Les mouv
 
 ### Code Arduino
 
-![Code Arduino - Marche arrière](<img width="360" height="494" alt="image" src="https://github.com/user-attachments/assets/d3553f07-8cda-4a3d-a8db-ec71ebd6951f" />
-)
+<img src="https://github.com/user-attachments/assets/d3553f07-8cda-4a3d-a8db-ec71ebd6951f" alt="Code Arduino - Marche arrière" width="500">
 
-![Code Arduino - Rotation gauche](<img width="337" height="268" alt="image" src="https://github.com/user-attachments/assets/43fba3b7-74d7-46cc-8ef0-4297591a7c0f" />
-)
+<img src="https://github.com/user-attachments/assets/43fba3b7-74d7-46cc-8ef0-4297591a7c0f" alt="Code Arduino - Rotation gauche" width="500">
 
-![Code Arduino - Rotation droite](<img width="529" height="408" alt="image" src="https://github.com/user-attachments/assets/a16e0d52-fc36-4da8-b92c-e06c347c5022" />
-)
+<img src="https://github.com/user-attachments/assets/a16e0d52-fc36-4da8-b92c-e06c347c5022" alt="Code Arduino - Rotation droite" width="500">
 
-![Code Arduino - Marche avant](<img width="449" height="591" alt="image" src="https://github.com/user-attachments/assets/c0e3a0d7-030c-47e8-8418-1f7ff53f67ba" />
-)
-
+<img src="https://github.com/user-attachments/assets/c0e3a0d7-030c-47e8-8418-1f7ff53f67ba" alt="Code Arduino - Marche avant" width="500">
 ---
 
 *Programmation réalisée par Rozié Archibald & Hanquer Nohem*
