@@ -34,13 +34,11 @@ fonctionnement.
 Ce projet nous a également permis d'apprendre à travailler en équipe, à répartir les tâches et
 à résoudre les différents problèmes rencontrés au cours du développement.
 
-## Poster
+# Poster
 
-Ici vous publierez le poster de votre projet.
+Voici le poster de notre projet Otto-MKS.
 
-![Poster projet](<img width="749" height="947" alt="image" src="https://github.com/user-attachments/assets/2ae6af10-4eaa-4333-b864-ab29717255cb" />
-)
-
+<img src="https://github.com/user-attachments/assets/2ae6af10-4eaa-4333-b864-ab29717255cb" alt="Poster projet Otto-MKS" width="700">
 ## Vidéo
 
 Ici vous publierez la vidéo de votre projet. 
