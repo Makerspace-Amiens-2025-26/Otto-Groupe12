@@ -45,17 +45,6 @@ L'ensemble des pièces du robot a été modélisé ou modifié sur **Onshape**.
 
 ---
 
-## 📐 Visualisation 3D
-
-<iframe height="500" width="100%" src="https://modelembedder.net/embed?did=9c8be9d5948860dbdf8c5030&wvm=v&wvmid=5700a20b0c46ffa8c7e0796d&eid=4f1193e47d2309dbc86d44f2&elementType=ASSEMBLY" frameborder="0"></iframe>
-
-{: .warning }
-> Si le modèle 3D ne s'affiche pas, cliquez sur le bouton ci-dessous pour accéder directement à Onshape.
-
-[🔗 Ouvrir sur Onshape](https://cad.onshape.com/documents/9c8be9d5948860dbdf8c5030/w/5700a20b0c46ffa8c7e0796d/e/4f1193e47d2309dbc86d44f2){: .btn .btn-primary }
-
----
-
 ## 🖨️ Prototypage et intégration
 
 ### 🔧 Assemblage
