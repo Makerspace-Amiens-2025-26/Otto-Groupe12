@@ -36,9 +36,6 @@ Voici le poster de notre projet Otto-MKS.
 
 <img src="https://github.com/user-attachments/assets/2ae6af10-4eaa-4333-b864-ab29717255cb" alt="Poster projet Otto-MKS" width="700">
 
-
-<video src="video" controls title="Title"  style="width: 100%;"></video>
-
 ## Video Montage
 
 [Notre video montage](https://www.youtube.com/watch?v=8-qTWAUJMaU){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
