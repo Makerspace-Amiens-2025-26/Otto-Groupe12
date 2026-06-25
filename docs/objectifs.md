@@ -9,26 +9,30 @@ permalink: /objectifs
 
 ## Introduction
 
-Au premier abord, le projet Otto-MKS paraissait être un simple exercice d'assemblage et de programmation. Mais au fil de l'avancement, nous avons réalisé qu'il s'agissait d'un véritable défi technique mêlant plusieurs disciplines : robotique, électronique, mécanique et informatique.
+Le projet **Otto-MKS** constitue une première approche concrète de la conception d’un système robotique autonome. Bien qu’il puisse, à première vue, être perçu comme un simple exercice d’assemblage et de programmation, sa réalisation mobilise en réalité des compétences pluridisciplinaires en robotique, électronique, mécanique, informatique et fabrication additive.
 
-Notre mission principale était de concevoir un robot capable de participer aux **Ottolympiades** organisées à UniLaSalle Amiens. Chaque choix technique avait donc une influence directe sur ses futures performances en compétition.
+L’objectif principal du projet était de concevoir, assembler et programmer un robot capable de participer aux **Ottolympiades** organisées par UniLaSalle Amiens. Dans ce contexte, chaque décision de conception, qu’elle soit matérielle ou logicielle, avait une incidence directe sur les performances, la fiabilité et l’autonomie du robot lors des différentes épreuves.
 
-Au-delà de l'aspect ludique et compétitif, cette expérience nous a permis d'explorer la robotique embarquée, la fabrication additive et le travail collaboratif dans des conditions proches d'un projet professionnel.
+Au-delà de son aspect pédagogique et compétitif, ce projet nous a permis d’appréhender les différentes étapes du développement d’un système embarqué, depuis la phase de conception jusqu’aux essais et à la validation du prototype. Il nous a également permis de développer des compétences en gestion de projet, en résolution de problèmes techniques et en travail collaboratif.
 
 ---
 
 ## Contexte du projet
 
-Ce projet s'inscrit dans une logique pédagogique visant à nous familiariser avec la robotique, le développement logiciel et la conception mécanique.
+Ce projet s’inscrit dans le cadre de la formation d’ingénieur à **UniLaSalle Amiens** et a pour objectif de mettre en application les connaissances théoriques acquises en électronique, informatique embarquée et conception mécanique à travers la réalisation d’un robot autonome.
 
-Réalisé au sein du **Makerspace d'UniLaSalle Amiens**, il nous a offert l'opportunité de mettre en pratique les connaissances théoriques acquises en cours à travers la création d'un robot fonctionnel.
+Les travaux ont été réalisés au sein du **Makerspace d’UniLaSalle Amiens**, un espace dédié au prototypage et à l’innovation offrant les ressources matérielles nécessaires à la conception, à la fabrication et aux essais du robot.
 
-L'architecture du robot Otto-MKS est volontairement simple et évolutive, ce qui favorise l'apprentissage par la pratique. Cela nous a permis de :
+Grâce à son architecture modulaire et évolutive, le robot Otto-MKS constitue un support pédagogique particulièrement adapté à l’apprentissage de la robotique. La réalisation de ce projet nous a permis de :
 
-- Manipuler des composants électroniques variés
-- Comprendre le rôle des capteurs et actionneurs
-- Programmer des comportements autonomes
-- Diagnostiquer et corriger des problèmes techniques
+- Concevoir et intégrer différents composants électroniques.
+- Comprendre le fonctionnement des capteurs et des actionneurs.
+- Développer et programmer des comportements autonomes.
+- Concevoir et optimiser des pièces mécaniques à l’aide de l’impression 3D.
+- Identifier, analyser et résoudre des problèmes techniques.
+- Travailler en équipe en suivant une démarche de gestion de projet.
+
+Ce projet représente ainsi une première expérience complète de conception d’un système embarqué, couvrant l’ensemble des étapes de développement, de l’analyse du besoin jusqu’à la validation d’un prototype fonctionnel.
 
 ---
 
