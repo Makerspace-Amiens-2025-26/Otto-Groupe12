@@ -31,6 +31,11 @@ Conception d'une **pièce intermédiaire** s'insérant entre la tête et le corp
 | Compatibilité | Fixations identiques au modèle original |
 
 ---
+# Otto modifié
+
+<img src="https://github.com/user-attachments/assets/fd0e8d5d-2540-48ab-b5c7-3bf10001cc83"
+       alt="Robot Otto-MKS"
+       width="400">
 
 ## 🧩 Modélisation 3D sur Onshape
 
