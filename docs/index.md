@@ -36,7 +36,7 @@ Voici le poster de notre projet Otto-MKS avant modification.
 
 <img src="https://github.com/user-attachments/assets/2ae6af10-4eaa-4333-b864-ab29717255cb" alt="Poster projet Otto-MKS" width="700">
 
-# Poster explication
+# Poster: fiche caracteristiques 
 
 voici le descriptif et performances de notre robot
 
