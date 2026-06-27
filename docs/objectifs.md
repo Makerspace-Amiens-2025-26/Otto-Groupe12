@@ -94,7 +94,7 @@ Ce projet nous a permis d'acquérir et de renforcer des compétences dans diffé
 | Conception 3D | Modélisation sur Onshape, impression 3D |
 | Électronique | Carte Otto-MKS, servomoteurs, capteur à ultrasons |
 | Programmation | Arduino (C++), gestion des mouvements et des capteurs |
-| Gestion de projet | Répartition des tâches, communication, résolution de problèmes |
+| Gestion de projet | Répartition des tâches, retroplanning, communication, résolution de problèmes |
 
 ---
 
